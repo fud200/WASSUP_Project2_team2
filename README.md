@@ -1,4 +1,4 @@
-# WASSUP_Project_team2
+# WASSUP_Project2_team2
 
 <img src = 'imgs/2.png' width="400" height="200"/>
 
