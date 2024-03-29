@@ -1,6 +1,6 @@
 # WASSUP_Project_team2
 
-<img src = 'imgs/2.png' width="200" height="200"/>
+<img src = 'imgs/2.png' width="400" height="200"/>
 
 ## EST soft WASSUP AI 개발과정 2기 시계열 프로젝트
 **(Team 7) 에너자2조**
