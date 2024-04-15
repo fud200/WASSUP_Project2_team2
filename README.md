@@ -14,6 +14,7 @@
 **아마존 리뷰 요약**
 ## Download our data
 **데이터의 용량이 커 데이터를 다운 받을 수 있는 링크를 첨부합니다.**
+
 https://drive.google.com/drive/folders/1mF-oyHSlxdMnmKC5_tLIcfmc9yI8l3Jx?usp=sharing
 
 ## Files
